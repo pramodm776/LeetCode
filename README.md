@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pramodm776/LeetCode/tree/master/0020-valid-parentheses) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/pramodm776/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/pramodm776/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/pramodm776/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Sorting
 |  |
 | ------- |
