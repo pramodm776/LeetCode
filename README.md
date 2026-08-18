@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pramodm776/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramodm776/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pramodm776/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/pramodm776/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pramodm776/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramodm776/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pramodm776/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/pramodm776/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/pramodm776/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Monotonic Stack
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pramodm776/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramodm776/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pramodm776/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2104-sum-of-subarray-ranges](https://github.com/pramodm776/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
