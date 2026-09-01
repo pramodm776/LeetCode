@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/pramodm776/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pramodm776/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pramodm776/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/pramodm776/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/pramodm776/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramodm776/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/pramodm776/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pramodm776/LeetCode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/pramodm776/LeetCode/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/pramodm776/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/pramodm776/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pramodm776/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/pramodm776/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pramodm776/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/pramodm776/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/pramodm776/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramodm776/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/pramodm776/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/pramodm776/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/pramodm776/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/pramodm776/LeetCode/tree/master/0860-lemonade-change) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/pramodm776/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2126-destroying-asteroids](https://github.com/pramodm776/LeetCode/tree/master/2126-destroying-asteroids) |
