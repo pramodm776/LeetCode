@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pramodm776/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pramodm776/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pramodm776/LeetCode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/pramodm776/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramodm776/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/pramodm776/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pramodm776/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/pramodm776/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/pramodm776/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/pramodm776/LeetCode/tree/master/0860-lemonade-change) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/pramodm776/LeetCode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2126-destroying-asteroids](https://github.com/pramodm776/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/pramodm776/LeetCode/tree/master/2224-minimum-number-of-operations-to-convert-time) |
