@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/pramodm776/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/pramodm776/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/pramodm776/LeetCode/tree/master/2126-destroying-asteroids) |
+| [3169-count-days-without-meetings](https://github.com/pramodm776/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/pramodm776/LeetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/pramodm776/LeetCode/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/pramodm776/LeetCode/tree/master/2126-destroying-asteroids) |
+| [3169-count-days-without-meetings](https://github.com/pramodm776/LeetCode/tree/master/3169-count-days-without-meetings) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
